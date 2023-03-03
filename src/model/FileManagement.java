@@ -1,6 +1,6 @@
 package model;
 
 public interface FileManagement {
-    void writeFile(String path,int Rut , String NameC, String Adress, int Telefono );
+    void writeFile(String path, Object info);
     String readFile(String path);
 }
