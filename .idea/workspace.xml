@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e52a6a5a-694f-4150-8e39-14c1d5f2f4a4" name="Changes" comment="primera vercsion, maquetado de clases principales" />
+    <list default="true" id="e52a6a5a-694f-4150-8e39-14c1d5f2f4a4" name="Changes" comment="primera version, maquetado de clases principales">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Rsale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Rsale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Supplier.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +68,7 @@
       <workItem from="1677458984567" duration="5362000" />
       <workItem from="1677591567119" duration="2402000" />
       <workItem from="1677597118274" duration="2496000" />
-      <workItem from="1677874016603" duration="611000" />
+      <workItem from="1677874016603" duration="1792000" />
     </task>
     <task id="LOCAL-00001" summary="primera vercsion, maquetado de clases principales">
       <created>1677459408021</created>
@@ -69,7 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677459408021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primera vercsion, maquetado de clases principales">
+      <created>1677875617576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677875617577</updated>
+    </task>
+    <task id="LOCAL-00003" summary="primera version, maquetado de clases principales">
+      <created>1677875898013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677875898013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="primera version, maquetado de clases principales">
+      <created>1677876040490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677876040490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primera vercsion, maquetado de clases principales" />
-    <option name="LAST_COMMIT_MESSAGE" value="primera vercsion, maquetado de clases principales" />
+    <MESSAGE value="primera version, maquetado de clases principales" />
+    <option name="LAST_COMMIT_MESSAGE" value="primera version, maquetado de clases principales" />
   </component>
 </project>

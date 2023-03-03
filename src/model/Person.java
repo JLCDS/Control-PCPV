@@ -2,24 +2,24 @@ package model;
 
 //Super clase: contiene los parametros que se repiten entre proveedpor y cliente
 public class Person {
-    protected int rut;
+    protected String rut;
     protected  String name ;
     protected String direccion;
-    protected int telefono;
+    protected String telefono;
 
 
-    public Person(int rut, String name, String direccion, int telefono) {
+    public Person(String rut, String name, String direccion, String telefono) {
         this.rut = rut;
         this.name = name;
         this.direccion = direccion;
         this.telefono = telefono;
     }
 
-    public int getRut() {
+    public String getRut() {
         return rut;
     }
 
-    public void setRut(int rut) {
+    public void setRut(String rut) {
         this.rut = rut;
     }
 
@@ -39,11 +39,11 @@ public class Person {
         this.direccion = direccion;
     }
 
-    public int getTelefono() {
+    public String getTelefono() {
         return telefono;
     }
 
-    public void setTelefono(int telefono) {
+    public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
 }

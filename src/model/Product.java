@@ -1,24 +1,24 @@
 package model;
 
 public class Product  {
-    private float price; // precio actual
+    private String price; // precio actual
     private Supplier supliter;
-    private int idProduct;
+    private String idProduct;
 
     private Category category;
 
-    public Product(float price, Supplier supliter, int idProduct, Category category) {
+    public Product(String price, Supplier supliter, String idProduct, Category category) {
         this.price = price;
         this.supliter = supliter;
         this.idProduct = idProduct;
         this.category = category;
     }
 
-    public float  getPrice() {
+    public String  getPrice() {
         return price;
     }
 
-    public void setPrice(float   price) {
+    public void setPrice(String  price) {
         this.price = price;
     }
 
@@ -30,11 +30,11 @@ public class Product  {
         this.supliter = supliter;
     }
 
-    public int getIdProduct() {
+    public String getIdProduct() {
         return idProduct;
     }
 
-    public void setIdProduct(int idProduct) {
+    public void setIdProduct(String idProduct) {
         this.idProduct = idProduct;
     }
 

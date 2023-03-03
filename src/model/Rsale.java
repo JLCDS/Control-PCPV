@@ -1,14 +1,14 @@
 package model;
 
 public class Rsale {
-    private int id;
+    private String id;
     private Date date;
     private Customer customer;
-    private float amountF;
-    private float dicoutn;
+    private String amountF;
+    private String dicoutn;
 
 
-    public Rsale(int id, Date date, Customer customer, float amountF, float dicoutn) {
+    public Rsale(String id, Date date, Customer customer, String amountF, String dicoutn) {
         this.id = id;
         this.date = date;
         this.customer = customer;
@@ -16,11 +16,11 @@ public class Rsale {
         this.dicoutn = dicoutn;
     }
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -40,11 +40,11 @@ public class Rsale {
         this.customer = customer;
     }
 
-    public float getAmountF() {
+    public String getAmountF() {
         return amountF;
     }
 
-    public void setAmountF(float amountF) {
+    public void setAmountF(String amountF) {
         this.amountF = amountF;
     }
 }
