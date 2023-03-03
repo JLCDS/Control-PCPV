@@ -31,11 +31,11 @@ public class Person {
         this.name = name;
     }
 
-    public Address getDireccion() {
+    public String getDireccion() {
         return direccion;
     }
 
-    public void setDireccion(Address direccion) {
+    public void setDireccion(String direccion) {
         this.direccion = direccion;
     }
 
