@@ -1,14 +1,14 @@
-package Model;
+package model;
 
 //Super clase: contiene los parametros que se repiten entre proveedpor y cliente
 public class Person {
     protected int rut;
     protected  String name ;
-    protected Address direccion;
+    protected String direccion;
     protected int telefono;
 
 
-    public Person(int rut, String name, Address direccion, int telefono) {
+    public Person(int rut, String name, String direccion, int telefono) {
         this.rut = rut;
         this.name = name;
         this.direccion = direccion;

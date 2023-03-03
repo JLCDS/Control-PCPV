@@ -1,4 +1,4 @@
-package Model;
+package model;
 
 public class Product  {
     private float price; // precio actual
@@ -18,7 +18,7 @@ public class Product  {
         return price;
     }
 
-    public void setPrice(float price) {
+    public void setPrice(float  price) {
         this.price = price;
     }
 

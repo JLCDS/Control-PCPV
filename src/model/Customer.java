@@ -1,10 +1,10 @@
-package Model;
+package model;
 
 import java.io.*;
 
 public class Customer extends Person {
     private OutputStream outputStream;
-    public Customer(int rut, String name, Address direccion, int telefono) {
+    public Customer(int rut, String name, String direccion, int telefono) {
         super(rut, name, direccion, telefono);
     }
     public void writerBufferesWiter(String texto){

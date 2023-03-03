@@ -1,6 +1,4 @@
-package Model;
-
-import Model.Address;
+package model;
 
 //esta es la clase proveedor que hereda de Person
 public class Supplier extends Person {
