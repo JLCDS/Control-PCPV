@@ -10,18 +10,20 @@ import java.util.Scanner;
 import static java.awt.SystemColor.info;
 
 public class fileManageA implements FileManagement {
-public void writeFile(String path, Object info){
-    File file = new File(path) ;
-    try {
-        FileWriter fileWriter = new FileWriter(file, true);
-        PrintWriter printWriter = new PrintWriter(fileWriter);
-        printWriter.println(info.toString());
-        printWriter.close();
-    }catch (IOException e){
-        e.printStackTrace();
 
+    @Override
+    public void writeFile(String path, int Rut, String NameC, String Adress, int Telefono) {
+        File file = new File(path) ;
+        try {
+            FileWriter fileWriter = new FileWriter(file, true);
+            PrintWriter printWriter = new PrintWriter(fileWriter);
+            printWriter.println(info.toString());
+            printWriter.close();
+        }catch (IOException e){
+            e.printStackTrace();
+
+        }
     }
-}
 
     @Override
     public String readFile(String path) {
