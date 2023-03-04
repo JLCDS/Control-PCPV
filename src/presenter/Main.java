@@ -15,9 +15,15 @@ public class Main {
         System.out.println("Ingrese RUT del cliente");
         operations.writeFile(PATH,"RUT:");
             operations.writeFile(PATH, scanner.next());
-        System.out.println("Ingrese ombre del cliente4");
-        System.out.println("dijite direccion del cliente ");
+        System.out.println("Ingrese nombre del cliente");
+        operations.writeFile(PATH, "Nombre: ");
             operations.writeFile(PATH,scanner.next());
+        System.out.println("Ingrese direccion del cliente separadon por -");
+        operations.writeFile(PATH, "Direccion: ");
+        operations.writeFile(PATH,scanner.next());
+        System.out.println("Ingrese Telefono del cliente");
+        operations.writeFile(PATH, "Telefono: ");
+        operations.writeFile(PATH,scanner.next());
             System.out.println(operations.readFile(PATH));
             System.out.println("Run SUCCESS");
 
