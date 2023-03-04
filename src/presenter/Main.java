@@ -26,7 +26,5 @@ public class Main {
         operations.writeFile(PATH,scanner.next());
             System.out.println(operations.readFile(PATH));
             System.out.println("Run SUCCESS");
-
-
     }
 }
