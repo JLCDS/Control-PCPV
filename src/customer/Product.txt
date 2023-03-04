@@ -1,0 +1,11 @@
+=========== INFO PRODUCTO ============
+Producto: 
+CHOCLITOS
+id: 
+547874654
+Precio: 
+1500
+Stock: 
+32
+Categoria : 
+PAQUETES

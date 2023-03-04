@@ -62,6 +62,7 @@ public class Main {
                     break;
                 case 3:
                     System.out.println("Esta ingresando un Producto :");
+                    operations.writeFile(PATH3, "=========== INFO PRODUCTO ============");
                     System.out.println("Ingrese nombre del producto ");
                     operations.writeFile(PATH3, "Producto: ");
                     operations.writeFile(PATH3,scanner.next());

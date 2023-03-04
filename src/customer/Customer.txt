@@ -1,0 +1,9 @@
+===========INFO CLIENTE ============
+RUT:
+1324154
+Nombre: 
+juan
+Direccion: 
+calle-9-#23-45
+Telefono: 
+311454645

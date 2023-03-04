@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e52a6a5a-694f-4150-8e39-14c1d5f2f4a4" name="Changes" comment="primera parte menu">
+    <list default="true" id="e52a6a5a-694f-4150-8e39-14c1d5f2f4a4" name="Changes" comment="implementacion del menu con registro de: cliente, proveedor y producto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/presenter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/presenter/Main.java" afterDir="false" />
     </list>
@@ -65,7 +65,7 @@
       <workItem from="1677591567119" duration="2402000" />
       <workItem from="1677597118274" duration="2496000" />
       <workItem from="1677874016603" duration="14236000" />
-      <workItem from="1677891736363" duration="6715000" />
+      <workItem from="1677891736363" duration="8008000" />
     </task>
     <task id="LOCAL-00001" summary="primera vercsion, maquetado de clases principales">
       <created>1677459408021</created>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677895809195</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="implementacion del menu con registro de: cliente, proveedor y producto">
+      <created>1677898554307</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677898554307</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +175,7 @@
     <MESSAGE value="order" />
     <MESSAGE value="prueba de rama" />
     <MESSAGE value="primera parte menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="primera parte menu" />
+    <MESSAGE value="implementacion del menu con registro de: cliente, proveedor y producto" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementacion del menu con registro de: cliente, proveedor y producto" />
   </component>
 </project>

@@ -1,0 +1,12 @@
+=========== INFO PROVEEDOR ============
+RUT:
+416546431
+Nombre: 
+colanta
+Direccion: 
+calle-2-#4-65
+Telefono: 
+345654654
+Pagina Web: 
+www.colanta.com
+=========== INFO PROVEEDOR ============
