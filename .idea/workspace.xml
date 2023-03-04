@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e52a6a5a-694f-4150-8e39-14c1d5f2f4a4" name="Changes" comment="re agrupacion">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presenter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/presenter/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e52a6a5a-694f-4150-8e39-14c1d5f2f4a4" name="Changes" comment="estructuracion de los datos, nueva version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <workItem from="1677458984567" duration="5362000" />
       <workItem from="1677591567119" duration="2402000" />
       <workItem from="1677597118274" duration="2496000" />
-      <workItem from="1677874016603" duration="12614000" />
+      <workItem from="1677874016603" duration="13057000" />
     </task>
     <task id="LOCAL-00001" summary="primera vercsion, maquetado de clases principales">
       <created>1677459408021</created>
@@ -122,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677885537968</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="estructuracion de los datos, nueva version">
+      <created>1677888080890</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677888080890</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +139,7 @@
     <MESSAGE value="prueba de filewrite" />
     <MESSAGE value="new push" />
     <MESSAGE value="re agrupacion" />
-    <option name="LAST_COMMIT_MESSAGE" value="re agrupacion" />
+    <MESSAGE value="estructuracion de los datos, nueva version" />
+    <option name="LAST_COMMIT_MESSAGE" value="estructuracion de los datos, nueva version" />
   </component>
 </project>
